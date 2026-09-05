@@ -4,7 +4,7 @@
 
 **Product Designer · Co-Founder at [PROJECT/X](https://www.madebypx.com/)**
 
-I design thoughtful digital products, identities, and systems where strategy, technology, and human experience meet.
+I design user centered digital products with strategy and creativity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaorodrigopena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigopena/)
 [![PROJECT/X](https://img.shields.io/badge/PROJECT%2FX-madebypx.com-111111?style=flat-square)](https://www.madebypx.com/)
@@ -52,13 +52,6 @@ A PROJECT/X initiative exploring collaborative digital experiences and ecosystem
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrigospena&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Rodrigo's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigospena&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
 ## Elsewhere
